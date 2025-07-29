@@ -29,7 +29,7 @@
 %% \documentclass[final,3p,times,authoryear]{elsarticle}
 %% \documentclass[final,3p,times,twocolumn,authoryear]{elsarticle}
 %% \documentclass[final,5p,times,authoryear]{elsarticle}
- \documentclass[final,5p,times,twocolumn,authoryear]{elsarticle}
+ \documentclass[final,5p,times,twocolumn]{elsarticle}
 
 %% For including figures, graphicx.sty has been loaded in
 %% elsarticle.cls. If you prefer to use the old commands
@@ -48,10 +48,9 @@
 
 %% You might want to define your own abbreviated commands for common used terms, e.g.:
 \newcommand{\kms}{km\,s$^{-1}$}
-\newcommand{\msun}{$M_\odot}
+\newcommand{\msun}{$M_\odot$}
 
 \journal{Physics Open}
-
 
 \begin{document}
 
@@ -243,8 +242,11 @@ Thanks to ...
 %% If you have bibdatabase file and want bibtex to generate the
 %% bibitems, please use
 %%
-% \bibliographystyle{elsarticle-harv} 
-\bibliographystyle{IEEEtran} 
+\bibliographystyle{elsarticle-num}
+% \bibliographystyle{elsarticle-harv}
+% \bibliographystyle{apalike}
+% \bibliographystyle{IEEEtran} 
+% \bibliographystyle{ieeetr}
 \bibliography{example}
 
 %% else use the following coding to input the bibitems directly in the
