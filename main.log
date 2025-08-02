@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.29)  2 AUG 2025 22:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.29)  2 AUG 2025 22:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -547,13 +547,18 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 ]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
+
+
+
+[2]
 Underfull \vbox (badness 1748) has occurred while \output is active []
 
 
 
-[2] (main.bbl
+(main.bbl
 Underfull \hbox (badness 1783) in paragraph at lines 14--20
 []\T1/txr/m/n/10 D. De Silva, H. Hui-jser, S. Cun-ning-ham, N. Press,
  []
@@ -600,11 +605,7 @@ Underfull \hbox (badness 3098) in paragraph at lines 22--26
 
 )
 
-
-
-[3
-
-] (main.aux)
+[3] (main.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-07-19>
@@ -613,13 +614,13 @@ L3 programming layer <2025-07-19>
 Here is how much of TeX's memory you used:
  5031 strings out of 468149
  75240 string characters out of 5441149
- 572896 words of memory out of 5000000
+ 576084 words of memory out of 5000000
  33545 multiletter control sequences out of 15000+600000
  669811 words of font info for 118 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,10n,79p,2819b,320s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,10n,79p,6216b,320s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/alami/AppData/Roaming/MiKTeX/fonts/type1/public/txfonts/rtxmi.pfb><C:/Users/alami/AppData/Roaming/MiKTeX/fonts/type1/public/txfonts/rtxr.pfb><C:/Users/alami/AppData/Roaming/MiKTeX/fonts/type1/public/txfonts/txsy.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (3 pages, 68825 bytes).
+Output written on main.pdf (3 pages, 74039 bytes).
 PDF statistics:
  43 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
