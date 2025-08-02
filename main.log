@@ -1,13 +1,13 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.28)  2 AUG 2025 22:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.29)  2 AUG 2025 22:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/Dell/Desktop/TWRM/Career-opportunities-and-essential-skills-for-CSE-graduates-in-a-changing-tech-landscape/main.tex
-(c:/Users/Dell/Desktop/TWRM/Career-opportunities-and-essential-skills-for-CSE-graduates-in-a-changing-tech-landscape/main.tex
+**e:/2/Desktop/Career-opportunities-and-essential-skills-for-CSE-graduates-in-a-changing-tech-landscape/main.tex
+(e:/2/Desktop/Career-opportunities-and-essential-skills-for-CSE-graduates-in-a-changing-tech-landscape/main.tex
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-07-19>
-(C:\Users\Dell\AppData\Roaming\MiKTeX\tex/latex/elsarticle\elsarticle.cls
+(C:\Users\alami\AppData\Roaming\MiKTeX\tex/latex/elsarticle\elsarticle.cls
 Document Class: elsarticle 2025/01/11, 3.4c: Elsevier Ltd
 (C:\Program Files\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2024/12/21 v2.1c Standard LaTeX package
@@ -77,7 +77,7 @@ File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
 \@enLab=\toks19
 \@sep=\skip51
 \@@sep=\skip52
- (main.spl) (C:\Users\Dell\AppData\Roaming\MiKTeX\tex/latex/natbib\natbib.sty
+ (main.spl) (C:\Users\alami\AppData\Roaming\MiKTeX\tex/latex/natbib\natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip53
 \bibsep=\skip54
@@ -87,7 +87,7 @@ LaTeX Info: Redefining \cite on input line 694.
 \splwrite=\write3
 \openout3 = `main.spl'.
 
- (C:\Users\Dell\AppData\Roaming\MiKTeX\tex/latex/geometry\geometry.sty
+ (C:\Users\alami\AppData\Roaming\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
  (C:\Program Files\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
@@ -106,7 +106,7 @@ Package: iftex 2024/12/12 v1.0g TeX engine tests
 \Gm@layouthoffset=\dimen161
 \Gm@layoutvoffset=\dimen162
 \Gm@dimlist=\toks20
- (C:\Users\Dell\AppData\Roaming\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Program Files\MiKTeX\tex/latex/base\fleqn.clo
+ (C:\Users\alami\AppData\Roaming\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Program Files\MiKTeX\tex/latex/base\fleqn.clo
 File: fleqn.clo 2016/12/29 v1.2b Standard LaTeX option (flush left equations)
 \mathindent=\skip55
 Applying: [2015/01/01] Make \[ robust on input line 50.
@@ -117,7 +117,7 @@ LaTeX Info: Redefining \] on input line 75.
 Already applied: [0000/00/00] Make \] robust on input line 83.
 )
 \appnamewidth=\dimen163
-) (C:\Users\Dell\AppData\Roaming\MiKTeX\tex/latex/txfonts\txfonts.sty
+) (C:\Users\alami\AppData\Roaming\MiKTeX\tex/latex/txfonts\txfonts.sty
 Package: txfonts 2008/01/22 v3.2.1
 LaTeX Font Info:    Redeclaring symbol font `operators' on input line 21.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
@@ -415,29 +415,29 @@ LaTeX Font Info:    Redeclaring math symbol \varkappa on input line 260.
 LaTeX Font Info:    Redeclaring math symbol \Bbbk on input line 261.
 LaTeX Font Info:    Redeclaring math symbol \hslash on input line 262.
 LaTeX Font Info:    Redeclaring math symbol \backepsilon on input line 265.
-) (C:\Users\Dell\AppData\Roaming\MiKTeX\tex/latex/lipsum\lipsum.sty (C:\Program Files\MiKTeX\tex/latex/l3packages/l3keys2e\l3keys2e.sty
+) (C:\Users\alami\AppData\Roaming\MiKTeX\tex/latex/lipsum\lipsum.sty (C:\Program Files\MiKTeX\tex/latex/l3packages/l3keys2e\l3keys2e.sty
 Package: l3keys2e 2024-08-16 LaTeX2e option processing using LaTeX3 keys
 )
 Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
 \g__lipsum_par_int=\count295
 \l__lipsum_a_int=\count296
 \l__lipsum_b_int=\count297
- (C:\Users\Dell\AppData\Roaming\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex))
+ (C:\Users\alami\AppData\Roaming\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex))
 LaTeX Font Info:    Trying to load font information for T1+txr on input line 55.
- (C:\Users\Dell\AppData\Roaming\MiKTeX\tex/latex/txfonts\t1txr.fd
+ (C:\Users\alami\AppData\Roaming\MiKTeX\tex/latex/txfonts\t1txr.fd
 File: t1txr.fd 2000/12/15 v3.1
 ) (main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 55.
 LaTeX Font Info:    Trying to load font information for OML+txmi on input line 55.
- (C:\Users\Dell\AppData\Roaming\MiKTeX\tex/latex/txfonts\omltxmi.fd
+ (C:\Users\alami\AppData\Roaming\MiKTeX\tex/latex/txfonts\omltxmi.fd
 File: omltxmi.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    ... okay on input line 55.
 LaTeX Font Info:    Checking defaults for OMS/txsy/m/n on input line 55.
 LaTeX Font Info:    Trying to load font information for OMS+txsy on input line 55.
- (C:\Users\Dell\AppData\Roaming\MiKTeX\tex/latex/txfonts\omstxsy.fd
+ (C:\Users\alami\AppData\Roaming\MiKTeX\tex/latex/txfonts\omstxsy.fd
 File: omstxsy.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    ... okay on input line 55.
@@ -449,13 +449,13 @@ LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 55.
 LaTeX Font Info:    ... okay on input line 55.
 LaTeX Font Info:    Checking defaults for OMX/txex/m/n on input line 55.
 LaTeX Font Info:    Trying to load font information for OMX+txex on input line 55.
- (C:\Users\Dell\AppData\Roaming\MiKTeX\tex/latex/txfonts\omxtxex.fd
+ (C:\Users\alami\AppData\Roaming\MiKTeX\tex/latex/txfonts\omxtxex.fd
 File: omxtxex.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    ... okay on input line 55.
 LaTeX Font Info:    Checking defaults for U/txexa/m/n on input line 55.
 LaTeX Font Info:    Trying to load font information for U+txexa on input line 55.
- (C:\Users\Dell\AppData\Roaming\MiKTeX\tex/latex/txfonts\utxexa.fd
+ (C:\Users\alami\AppData\Roaming\MiKTeX\tex/latex/txfonts\utxexa.fd
 File: utxexa.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    ... okay on input line 55.
@@ -518,11 +518,11 @@ LaTeX Encoding Info:    Redeclaring text command \k (encoding T1) on input line 
 LaTeX Font Info:    Font shape `T1/txr/b/n' in size <10> not available
 (Font)              Font shape `T1/txr/bx/n' tried instead on input line 129.
 LaTeX Font Info:    Trying to load font information for OT1+txr on input line 157.
-(C:\Users\Dell\AppData\Roaming\MiKTeX\tex/latex/txfonts\ot1txr.fd
+(C:\Users\alami\AppData\Roaming\MiKTeX\tex/latex/txfonts\ot1txr.fd
 File: ot1txr.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Trying to load font information for U+txmia on input line 157.
- (C:\Users\Dell\AppData\Roaming\MiKTeX\tex/latex/txfonts\utxmia.fd
+ (C:\Users\alami\AppData\Roaming\MiKTeX\tex/latex/txfonts\utxmia.fd
 File: utxmia.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Trying to load font information for U+msa on input line 157.
@@ -534,7 +534,7 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 157.
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Trying to load font information for U+txsyc on input line 157.
- (C:\Users\Dell\AppData\Roaming\MiKTeX\tex/latex/txfonts\utxsyc.fd
+ (C:\Users\alami\AppData\Roaming\MiKTeX\tex/latex/txfonts\utxsyc.fd
 File: utxsyc.fd 2000/12/15 v3.1
 )
 
@@ -543,7 +543,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[1{C:/Users/Dell/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc}
+[1{C:/Users/alami/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc}
 
 
 ]
@@ -612,13 +612,13 @@ L3 programming layer <2025-07-19>
  ) 
 Here is how much of TeX's memory you used:
  5031 strings out of 468149
- 75331 string characters out of 5441152
+ 75240 string characters out of 5441149
  572896 words of memory out of 5000000
  33545 multiletter control sequences out of 15000+600000
  669811 words of font info for 118 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,10n,79p,2833b,320s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/Dell/AppData/Roaming/MiKTeX/fonts/type1/public/txfonts/rtxmi.pfb><C:/Users/Dell/AppData/Roaming/MiKTeX/fonts/type1/public/txfonts/rtxr.pfb><C:/Users/Dell/AppData/Roaming/MiKTeX/fonts/type1/public/txfonts/txsy.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+ 72i,10n,79p,2819b,320s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/alami/AppData/Roaming/MiKTeX/fonts/type1/public/txfonts/rtxmi.pfb><C:/Users/alami/AppData/Roaming/MiKTeX/fonts/type1/public/txfonts/rtxr.pfb><C:/Users/alami/AppData/Roaming/MiKTeX/fonts/type1/public/txfonts/txsy.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
 Output written on main.pdf (3 pages, 68825 bytes).
 PDF statistics:
  43 PDF objects out of 1000 (max. 8388607)
