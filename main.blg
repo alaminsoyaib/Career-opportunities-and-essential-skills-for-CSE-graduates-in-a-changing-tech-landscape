@@ -7,45 +7,45 @@ Reallocating 'name_of_file' (item size: 1) to 8 items.
 Database file #1: example.bib
 Warning--empty pages in 3_DeSilva2024
 Warning--empty pages in 4_Chakraborty2019
-You've used 11 entries,
+You've used 15 entries,
             2952 wiz_defined-function locations,
-            751 strings with 8000 characters,
-and the built_in function-call counts, 3368 in all, are:
-= -- 308
-> -- 116
+            775 strings with 8848 characters,
+and the built_in function-call counts, 4260 in all, are:
+= -- 396
+> -- 132
 < -- 2
-+ -- 46
-- -- 35
-* -- 232
-:= -- 469
-add.period$ -- 14
-call.type$ -- 11
-change.case$ -- 12
++ -- 54
+- -- 39
+* -- 272
+:= -- 605
+add.period$ -- 18
+call.type$ -- 15
+change.case$ -- 16
 chr.to.int$ -- 0
-cite$ -- 13
-duplicate$ -- 114
-empty$ -- 384
-format.name$ -- 45
-if$ -- 874
+cite$ -- 17
+duplicate$ -- 150
+empty$ -- 504
+format.name$ -- 49
+if$ -- 1126
 int.to.chr$ -- 0
-int.to.str$ -- 11
-missing$ -- 11
-newline$ -- 44
-num.names$ -- 11
-pop$ -- 76
+int.to.str$ -- 15
+missing$ -- 15
+newline$ -- 60
+num.names$ -- 15
+pop$ -- 104
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 234
+skip$ -- 298
 stack$ -- 0
 substring$ -- 133
-swap$ -- 30
+swap$ -- 38
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 2
-while$ -- 21
-width$ -- 13
-write$ -- 104
+while$ -- 25
+width$ -- 17
+write$ -- 140
 (There were 2 warnings)

@@ -1,15 +1,16 @@
 # Fdb version 4
-["bibtex main"] 1754153028.04961 "main.aux" "main.bbl" "main" 1754153028.43837 0
-  "./example.bib" 1754153027 7590 68fdb26996760e80e37c61e4a07c94da ""
+["bibtex main"] 1754155198.02075 "main.aux" "main.bbl" "main" 1754155200.03617 0
+  "./example.bib" 1754155197 7391 45abb6ccd35ffbb65b36e759a4f1554e ""
   "C:/Users/Dell/AppData/Roaming/MiKTeX/bibtex/bst/elsarticle/elsarticle-num.bst" 1737286288 29462 3b2a1af2ce1e224a3b46ee048ffd4b98 ""
-  "main.aux" 1754152876 2734 0c5b4f5b297b2c3267086c77eb9b3e6c "pdflatex"
+  "main.aux" 1754155199 3078 359adcf78457d1159c3803f8c8f11771 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1754152875.72804 "c:/Users/Dell/Desktop/TWRM/Career-opportunities-and-essential-skills-for-CSE-graduates-in-a-changing-tech-landscape/main.tex" "main.pdf" "main" 1754153028.4386 0
+["pdflatex"] 1754155198.40577 "c:/Users/Dell/Desktop/TWRM/Career-opportunities-and-essential-skills-for-CSE-graduates-in-a-changing-tech-landscape/main.tex" "main.pdf" "main" 1754155200.03675 0
   "C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
   "C:/Program Files/MiKTeX/fonts/tfm/jknappen/ec/ecrm1000.tfm" 993062122 3148 7e594c8240c71e432203f65ab5f95a51 ""
+  "C:/Program Files/MiKTeX/fonts/tfm/jknappen/ec/ectt1000.tfm" 993062340 1348 d70ddf2d5d512b838e50a335e385e919 ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1233951854 916 f87d7c45f9c908e672703b83b72241a3 ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/symbols/msam5.tfm" 1233951854 924 9904cf1d39e9767e7a3622f2a125a565 ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/symbols/msam7.tfm" 1233951854 928 2dc8d444221b7a635bb58038579b861a ""
@@ -44,6 +45,7 @@
   "C:/Program Files/MiKTeX/tex/latex/l3packages/l3keys2e/l3keys2e.sty" 1724854269 4674 22943918cc84173478a588d6efbc800b ""
   "C:/Program Files/MiKTeX/tex/latex/l3packages/xparse/xparse.sty" 1724854269 9783 ab4bee47700c04aadedb8da27591b0ab ""
   "C:/Users/Dell/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1753762505 82739 2291d6f3c571c8d9cdaecbe2fcc8640f ""
+  "C:/Users/Dell/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ectt1000.pk" 1754154406 20028 35b05715a486b039ddfa8843753e5323 ""
   "C:/Users/Dell/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1753701130 13244243 57a262d21ed758a68751bd2836baa03e ""
   "C:/Users/Dell/AppData/Roaming/MiKTeX/fonts/tfm/public/txfonts/rtxb.tfm" 977342760 1020 c53143d3e3747b5c1149bd9a5ecd7b55 ""
   "C:/Users/Dell/AppData/Roaming/MiKTeX/fonts/tfm/public/txfonts/rtxi.tfm" 977342760 1048 a97cff5f6b833b712079817ce7a40d4c ""
@@ -86,11 +88,11 @@
   "C:/Users/Dell/AppData/Roaming/MiKTeX/tex/latex/txfonts/utxexa.fd" 977342760 310 1b00b0b05685b816e4c6caccce437e0d ""
   "C:/Users/Dell/AppData/Roaming/MiKTeX/tex/latex/txfonts/utxmia.fd" 977342760 334 87436a82076ca2e35cd305f852507afc ""
   "C:/Users/Dell/AppData/Roaming/MiKTeX/tex/latex/txfonts/utxsyc.fd" 977342760 310 4b5d6fe830337242ef847b3bff48ba21 ""
-  "c:/Users/Dell/Desktop/TWRM/Career-opportunities-and-essential-skills-for-CSE-graduates-in-a-changing-tech-landscape/main.tex" 1754152871 16168 86d0a8da3852df371353ef0e5d5c9758 ""
-  "main.aux" 1754152876 2734 0c5b4f5b297b2c3267086c77eb9b3e6c "pdflatex"
-  "main.bbl" 1754153028 3332 c89039a19dfbf6a76f82839ab5096a1e "bibtex main"
-  "main.spl" 1754152876 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "main.tex" 1754152871 16168 86d0a8da3852df371353ef0e5d5c9758 ""
+  "c:/Users/Dell/Desktop/TWRM/Career-opportunities-and-essential-skills-for-CSE-graduates-in-a-changing-tech-landscape/main.tex" 1754154170 16294 dd3f5897eb56d9d495ae6db9531cd154 ""
+  "main.aux" 1754155199 3078 359adcf78457d1159c3803f8c8f11771 "pdflatex"
+  "main.bbl" 1754155198 4691 2a0b02880cedab652459dadb9dc6aa84 "bibtex main"
+  "main.spl" 1754155198 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "main.tex" 1754154170 16294 dd3f5897eb56d9d495ae6db9531cd154 ""
   (generated)
   "main.aux"
   "main.log"
