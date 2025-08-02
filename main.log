@@ -1,33 +1,29 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.28)  30 JUL 2025 00:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.28)  2 AUG 2025 22:01
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
-**./main.tex
-(main.tex
+**c:/Users/Dell/Desktop/TWRM/Career-opportunities-and-essential-skills-for-CSE-graduates-in-a-changing-tech-landscape/main.tex
+(c:/Users/Dell/Desktop/TWRM/Career-opportunities-and-essential-skills-for-CSE-graduates-in-a-changing-tech-landscape/main.tex
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-07-19>
 (C:\Users\Dell\AppData\Roaming\MiKTeX\tex/latex/elsarticle\elsarticle.cls
 Document Class: elsarticle 2025/01/11, 3.4c: Elsevier Ltd
 (C:\Program Files\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2024/12/21 v2.1c Standard LaTeX package
-)
-(C:\Program Files\MiKTeX\tex/latex/l3kernel\expl3.sty
+) (C:\Program Files\MiKTeX\tex/latex/l3kernel\expl3.sty
 Package: expl3 2025-07-19 L3 programming layer (loader) 
-
-(C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+ (C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-06-09 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count275
-))
-(C:\Program Files\MiKTeX\tex/latex/l3packages/xparse\xparse.sty
+)) (C:\Program Files\MiKTeX\tex/latex/l3packages/xparse\xparse.sty
 Package: xparse 2024-08-16 L3 Experimental document command parser
-)
-(C:\Program Files\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+) (C:\Program Files\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count276
 )
 \@bls=\dimen148
-
-(C:\Program Files\MiKTeX\tex/latex/base\article.cls
+ (C:\Program Files\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
 (C:\Program Files\MiKTeX\tex/latex/base\size10.clo
 File: size10.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
@@ -43,26 +39,20 @@ File: size10.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip49
 \belowcaptionskip=\skip50
 \bibindent=\dimen149
-)
-(C:\Program Files\MiKTeX\tex/latex/graphics\graphicx.sty
+) (C:\Program Files\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
-
-(C:\Program Files\MiKTeX\tex/latex/graphics\keyval.sty
+ (C:\Program Files\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks17
-)
-(C:\Program Files\MiKTeX\tex/latex/graphics\graphics.sty
+) (C:\Program Files\MiKTeX\tex/latex/graphics\graphics.sty
 Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
-
-(C:\Program Files\MiKTeX\tex/latex/graphics\trig.sty
+ (C:\Program Files\MiKTeX\tex/latex/graphics\trig.sty
 Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
-)
-(C:\Program Files\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+) (C:\Program Files\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 106.
-
-(C:\Program Files\MiKTeX\tex/latex/graphics-def\pdftex.def
+ (C:\Program Files\MiKTeX\tex/latex/graphics-def\pdftex.def
 File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen150
@@ -87,8 +77,7 @@ File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
 \@enLab=\toks19
 \@sep=\skip51
 \@@sep=\skip52
- (main.spl)
-(C:\Users\Dell\AppData\Roaming\MiKTeX\tex/latex/natbib\natbib.sty
+ (main.spl) (C:\Users\Dell\AppData\Roaming\MiKTeX\tex/latex/natbib\natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip53
 \bibsep=\skip54
@@ -98,14 +87,11 @@ LaTeX Info: Redefining \cite on input line 694.
 \splwrite=\write3
 \openout3 = `main.spl'.
 
-
-(C:\Users\Dell\AppData\Roaming\MiKTeX\tex/latex/geometry\geometry.sty
+ (C:\Users\Dell\AppData\Roaming\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
-
-(C:\Program Files\MiKTeX\tex/generic/iftex\ifvtex.sty
+ (C:\Program Files\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
-
-(C:\Program Files\MiKTeX\tex/generic/iftex\iftex.sty
+ (C:\Program Files\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2024/12/12 v1.0g TeX engine tests
 ))
 \Gm@cnth=\count292
@@ -120,9 +106,7 @@ Package: iftex 2024/12/12 v1.0g TeX engine tests
 \Gm@layouthoffset=\dimen161
 \Gm@layoutvoffset=\dimen162
 \Gm@dimlist=\toks20
-
-(C:\Users\Dell\AppData\Roaming\MiKTeX\tex/latex/geometry\geometry.cfg))
-(C:\Program Files\MiKTeX\tex/latex/base\fleqn.clo
+ (C:\Users\Dell\AppData\Roaming\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Program Files\MiKTeX\tex/latex/base\fleqn.clo
 File: fleqn.clo 2016/12/29 v1.2b Standard LaTeX option (flush left equations)
 \mathindent=\skip55
 Applying: [2015/01/01] Make \[ robust on input line 50.
@@ -133,8 +117,7 @@ LaTeX Info: Redefining \] on input line 75.
 Already applied: [0000/00/00] Make \] robust on input line 83.
 )
 \appnamewidth=\dimen163
-)
-(C:\Users\Dell\AppData\Roaming\MiKTeX\tex/latex/txfonts\txfonts.sty
+) (C:\Users\Dell\AppData\Roaming\MiKTeX\tex/latex/txfonts\txfonts.sty
 Package: txfonts 2008/01/22 v3.2.1
 LaTeX Font Info:    Redeclaring symbol font `operators' on input line 21.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
@@ -208,18 +191,14 @@ LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
 \symlargesymbolsA=\mathgroup9
 LaTeX Font Info:    Overwriting symbol font `largesymbolsA' in version `bold'
 (Font)                  U/txexa/m/n --> U/txexa/bx/n on input line 129.
-LaTeX Encoding Info:    Redeclaring text symbol \L (encoding OT1) on input line
- 160.
-LaTeX Encoding Info:    Redeclaring text symbol \l (encoding OT1) on input line
- 161.
+LaTeX Encoding Info:    Redeclaring text symbol \L (encoding OT1) on input line 160.
+LaTeX Encoding Info:    Redeclaring text symbol \l (encoding OT1) on input line 161.
 LaTeX Font Info:    Redeclaring math symbol \mathsterling on input line 164.
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 591.
 LaTeX Info: Redefining \not on input line 1043.
-)
-(C:\Program Files\MiKTeX\tex/latex/amsfonts\amssymb.sty
+) (C:\Program Files\MiKTeX\tex/latex/amsfonts\amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
-
-(C:\Program Files\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+ (C:\Program Files\MiKTeX\tex/latex/amsfonts\amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \@emptytoks=\toks21
 LaTeX Font Info:    Redeclaring symbol font `AMSa' on input line 59.
@@ -246,26 +225,20 @@ LaTeX Font Info:    Redeclaring math symbol \blacksquare on input line 48.
 LaTeX Font Info:    Redeclaring math symbol \centerdot on input line 49.
 LaTeX Font Info:    Redeclaring math symbol \blacklozenge on input line 51.
 LaTeX Font Info:    Redeclaring math symbol \circlearrowright on input line 52.
-
 LaTeX Font Info:    Redeclaring math symbol \circlearrowleft on input line 53.
-LaTeX Font Info:    Redeclaring math symbol \leftrightharpoons on input line 56
-.
+LaTeX Font Info:    Redeclaring math symbol \leftrightharpoons on input line 56.
 LaTeX Font Info:    Redeclaring math symbol \boxminus on input line 57.
 LaTeX Font Info:    Redeclaring math symbol \Vdash on input line 58.
 LaTeX Font Info:    Redeclaring math symbol \Vvdash on input line 59.
 LaTeX Font Info:    Redeclaring math symbol \vDash on input line 60.
-LaTeX Font Info:    Redeclaring math symbol \twoheadrightarrow on input line 61
-.
+LaTeX Font Info:    Redeclaring math symbol \twoheadrightarrow on input line 61.
 LaTeX Font Info:    Redeclaring math symbol \twoheadleftarrow on input line 62.
-
 LaTeX Font Info:    Redeclaring math symbol \leftleftarrows on input line 63.
 LaTeX Font Info:    Redeclaring math symbol \rightrightarrows on input line 64.
-
 LaTeX Font Info:    Redeclaring math symbol \upuparrows on input line 65.
 LaTeX Font Info:    Redeclaring math symbol \downdownarrows on input line 66.
 LaTeX Font Info:    Redeclaring math symbol \upharpoonright on input line 67.
 LaTeX Font Info:    Redeclaring math symbol \downharpoonright on input line 69.
-
 LaTeX Font Info:    Redeclaring math symbol \upharpoonleft on input line 70.
 LaTeX Font Info:    Redeclaring math symbol \downharpoonleft on input line 71.
 LaTeX Font Info:    Redeclaring math symbol \rightarrowtail on input line 72.
@@ -274,8 +247,7 @@ LaTeX Font Info:    Redeclaring math symbol \leftrightarrows on input line 74.
 LaTeX Font Info:    Redeclaring math symbol \rightleftarrows on input line 75.
 LaTeX Font Info:    Redeclaring math symbol \Lsh on input line 76.
 LaTeX Font Info:    Redeclaring math symbol \Rsh on input line 77.
-LaTeX Font Info:    Redeclaring math symbol \leftrightsquigarrow on input line 
-79.
+LaTeX Font Info:    Redeclaring math symbol \leftrightsquigarrow on input line 79.
 LaTeX Font Info:    Redeclaring math symbol \looparrowleft on input line 80.
 LaTeX Font Info:    Redeclaring math symbol \looparrowright on input line 81.
 LaTeX Font Info:    Redeclaring math symbol \circeq on input line 82.
@@ -307,12 +279,9 @@ LaTeX Font Info:    Redeclaring math symbol \geqslant on input line 108.
 LaTeX Font Info:    Redeclaring math symbol \gtrless on input line 109.
 LaTeX Font Info:    Redeclaring math symbol \bigstar on input line 117.
 LaTeX Font Info:    Redeclaring math symbol \between on input line 118.
-LaTeX Font Info:    Redeclaring math symbol \blacktriangledown on input line 11
-9.
-LaTeX Font Info:    Redeclaring math symbol \blacktriangleright on input line 1
-20.
-LaTeX Font Info:    Redeclaring math symbol \blacktriangleleft on input line 12
-1.
+LaTeX Font Info:    Redeclaring math symbol \blacktriangledown on input line 119.
+LaTeX Font Info:    Redeclaring math symbol \blacktriangleright on input line 120.
+LaTeX Font Info:    Redeclaring math symbol \blacktriangleleft on input line 121.
 LaTeX Font Info:    Redeclaring math symbol \vartriangle on input line 122.
 LaTeX Font Info:    Redeclaring math symbol \blacktriangle on input line 123.
 LaTeX Font Info:    Redeclaring math symbol \triangledown on input line 124.
@@ -339,7 +308,6 @@ LaTeX Font Info:    Redeclaring math symbol \curlywedge on input line 148.
 LaTeX Font Info:    Redeclaring math symbol \curlyvee on input line 149.
 LaTeX Font Info:    Redeclaring math symbol \leftthreetimes on input line 150.
 LaTeX Font Info:    Redeclaring math symbol \rightthreetimes on input line 151.
-
 LaTeX Font Info:    Redeclaring math symbol \subseteqq on input line 152.
 LaTeX Font Info:    Redeclaring math symbol \supseteqq on input line 153.
 LaTeX Font Info:    Redeclaring math symbol \bumpeq on input line 154.
@@ -408,10 +376,8 @@ LaTeX Font Info:    Redeclaring math symbol \nvdash on input line 219.
 LaTeX Font Info:    Redeclaring math symbol \nVdash on input line 220.
 LaTeX Font Info:    Redeclaring math symbol \nvDash on input line 221.
 LaTeX Font Info:    Redeclaring math symbol \nVDash on input line 222.
-LaTeX Font Info:    Redeclaring math symbol \ntrianglerighteq on input line 223
-.
+LaTeX Font Info:    Redeclaring math symbol \ntrianglerighteq on input line 223.
 LaTeX Font Info:    Redeclaring math symbol \ntrianglelefteq on input line 224.
-
 LaTeX Font Info:    Redeclaring math symbol \ntriangleleft on input line 225.
 LaTeX Font Info:    Redeclaring math symbol \ntriangleright on input line 226.
 LaTeX Font Info:    Redeclaring math symbol \nleftarrow on input line 227.
@@ -419,9 +385,7 @@ LaTeX Font Info:    Redeclaring math symbol \nrightarrow on input line 228.
 LaTeX Font Info:    Redeclaring math symbol \nLeftarrow on input line 229.
 LaTeX Font Info:    Redeclaring math symbol \nRightarrow on input line 230.
 LaTeX Font Info:    Redeclaring math symbol \nLeftrightarrow on input line 231.
-
 LaTeX Font Info:    Redeclaring math symbol \nleftrightarrow on input line 232.
-
 LaTeX Font Info:    Redeclaring math symbol \divideontimes on input line 233.
 LaTeX Font Info:    Redeclaring math symbol \varnothing on input line 234.
 LaTeX Font Info:    Redeclaring math symbol \nexists on input line 235.
@@ -446,44 +410,34 @@ LaTeX Font Info:    Redeclaring math symbol \succapprox on input line 255.
 LaTeX Font Info:    Redeclaring math symbol \precapprox on input line 256.
 LaTeX Font Info:    Redeclaring math symbol \curvearrowleft on input line 257.
 LaTeX Font Info:    Redeclaring math symbol \curvearrowright on input line 258.
-
 LaTeX Font Info:    Redeclaring math symbol \digamma on input line 259.
 LaTeX Font Info:    Redeclaring math symbol \varkappa on input line 260.
 LaTeX Font Info:    Redeclaring math symbol \Bbbk on input line 261.
 LaTeX Font Info:    Redeclaring math symbol \hslash on input line 262.
 LaTeX Font Info:    Redeclaring math symbol \backepsilon on input line 265.
-)
-(C:\Users\Dell\AppData\Roaming\MiKTeX\tex/latex/lipsum\lipsum.sty
-(C:\Program Files\MiKTeX\tex/latex/l3packages/l3keys2e\l3keys2e.sty
+) (C:\Users\Dell\AppData\Roaming\MiKTeX\tex/latex/lipsum\lipsum.sty (C:\Program Files\MiKTeX\tex/latex/l3packages/l3keys2e\l3keys2e.sty
 Package: l3keys2e 2024-08-16 LaTeX2e option processing using LaTeX3 keys
 )
 Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
 \g__lipsum_par_int=\count295
 \l__lipsum_a_int=\count296
 \l__lipsum_b_int=\count297
-
-(C:\Users\Dell\AppData\Roaming\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex))
-LaTeX Font Info:    Trying to load font information for T1+txr on input line 55
-.
-
-(C:\Users\Dell\AppData\Roaming\MiKTeX\tex/latex/txfonts\t1txr.fd
+ (C:\Users\Dell\AppData\Roaming\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex))
+LaTeX Font Info:    Trying to load font information for T1+txr on input line 55.
+ (C:\Users\Dell\AppData\Roaming\MiKTeX\tex/latex/txfonts\t1txr.fd
 File: t1txr.fd 2000/12/15 v3.1
 ) (main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 55.
-LaTeX Font Info:    Trying to load font information for OML+txmi on input line 
-55.
-
-(C:\Users\Dell\AppData\Roaming\MiKTeX\tex/latex/txfonts\omltxmi.fd
+LaTeX Font Info:    Trying to load font information for OML+txmi on input line 55.
+ (C:\Users\Dell\AppData\Roaming\MiKTeX\tex/latex/txfonts\omltxmi.fd
 File: omltxmi.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    ... okay on input line 55.
 LaTeX Font Info:    Checking defaults for OMS/txsy/m/n on input line 55.
-LaTeX Font Info:    Trying to load font information for OMS+txsy on input line 
-55.
-
-(C:\Users\Dell\AppData\Roaming\MiKTeX\tex/latex/txfonts\omstxsy.fd
+LaTeX Font Info:    Trying to load font information for OMS+txsy on input line 55.
+ (C:\Users\Dell\AppData\Roaming\MiKTeX\tex/latex/txfonts\omstxsy.fd
 File: omstxsy.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    ... okay on input line 55.
@@ -494,23 +448,18 @@ LaTeX Font Info:    ... okay on input line 55.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 55.
 LaTeX Font Info:    ... okay on input line 55.
 LaTeX Font Info:    Checking defaults for OMX/txex/m/n on input line 55.
-LaTeX Font Info:    Trying to load font information for OMX+txex on input line 
-55.
-
-(C:\Users\Dell\AppData\Roaming\MiKTeX\tex/latex/txfonts\omxtxex.fd
+LaTeX Font Info:    Trying to load font information for OMX+txex on input line 55.
+ (C:\Users\Dell\AppData\Roaming\MiKTeX\tex/latex/txfonts\omxtxex.fd
 File: omxtxex.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    ... okay on input line 55.
 LaTeX Font Info:    Checking defaults for U/txexa/m/n on input line 55.
-LaTeX Font Info:    Trying to load font information for U+txexa on input line 5
-5.
-
-(C:\Users\Dell\AppData\Roaming\MiKTeX\tex/latex/txfonts\utxexa.fd
+LaTeX Font Info:    Trying to load font information for U+txexa on input line 55.
+ (C:\Users\Dell\AppData\Roaming\MiKTeX\tex/latex/txfonts\utxexa.fd
 File: utxexa.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    ... okay on input line 55.
-
-(C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+ (C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count298
 \scratchdimen=\dimen164
@@ -525,10 +474,8 @@ LaTeX Font Info:    ... okay on input line 55.
 \everyMPtoPDFconversion=\toks23
 ) (C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-85.
-
-(C:\Program Files\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (C:\Program Files\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 *geometry* driver: auto-detecting
@@ -567,58 +514,46 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Encoding Info:    Redeclaring text command \k (encoding T1) on input line
- 55.
+LaTeX Encoding Info:    Redeclaring text command \k (encoding T1) on input line 55.
 LaTeX Font Info:    Font shape `T1/txr/b/n' in size <10> not available
 (Font)              Font shape `T1/txr/bx/n' tried instead on input line 129.
-LaTeX Font Info:    Trying to load font information for OT1+txr on input line 1
-57.
+LaTeX Font Info:    Trying to load font information for OT1+txr on input line 157.
 (C:\Users\Dell\AppData\Roaming\MiKTeX\tex/latex/txfonts\ot1txr.fd
 File: ot1txr.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Trying to load font information for U+txmia on input line 1
-57.
-
-(C:\Users\Dell\AppData\Roaming\MiKTeX\tex/latex/txfonts\utxmia.fd
+LaTeX Font Info:    Trying to load font information for U+txmia on input line 157.
+ (C:\Users\Dell\AppData\Roaming\MiKTeX\tex/latex/txfonts\utxmia.fd
 File: utxmia.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Trying to load font information for U+msa on input line 157
-.
-
-(C:\Program Files\MiKTeX\tex/latex/amsfonts\umsa.fd
+LaTeX Font Info:    Trying to load font information for U+msa on input line 157.
+ (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 157
-.
-
-(C:\Program Files\MiKTeX\tex/latex/amsfonts\umsb.fd
+LaTeX Font Info:    Trying to load font information for U+msb on input line 157.
+ (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+txsyc on input line 1
-57.
-
-(C:\Users\Dell\AppData\Roaming\MiKTeX\tex/latex/txfonts\utxsyc.fd
+LaTeX Font Info:    Trying to load font information for U+txsyc on input line 157.
+ (C:\Users\Dell\AppData\Roaming\MiKTeX\tex/latex/txfonts\utxsyc.fd
 File: utxsyc.fd 2000/12/15 v3.1
 )
 
 
-
-pdfTeX warning: pdflatex.exe (file ./PHYSO_cover_image.pdf): PDF inclusion: fou
-nd PDF version <1.7>, but at most version <1.5> allowed
-<PHYSO_cover_image.pdf, id=1, 844.65562pt x 596.98032pt>
-File: PHYSO_cover_image.pdf Graphic file (type pdf)
-<use PHYSO_cover_image.pdf>
-Package pdftex.def Info: PHYSO_cover_image.pdf  used on input line 185.
-(pdftex.def)             Requested size: 208.79681pt x 147.56862pt.
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-[1{C:/Users/Dell/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Program F
-iles/MiKTeX/fonts/enc/dvips/base/8r.enc}
+
+[1{C:/Users/Dell/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc}
 
 
- <./PHYSO_cover_image.pdf>]
+]
 
-(main.bbl
+
+Underfull \vbox (badness 1748) has occurred while \output is active []
+
+
+
+[2] (main.bbl
 Underfull \hbox (badness 1783) in paragraph at lines 14--20
 []\T1/txr/m/n/10 D. De Silva, H. Hui-jser, S. Cun-ning-ham, N. Press,
  []
@@ -663,9 +598,7 @@ Underfull \hbox (badness 3098) in paragraph at lines 22--26
 \T1/txr/m/n/10 ed-u-ca-tion, Be-hav-ioral Sci-ences 14 (10) (2024) 894.
  []
 
-
-
-[2])
+)
 
 
 
@@ -678,22 +611,17 @@ L3 programming layer <2025-07-19>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 5030 strings out of 468149
- 75007 string characters out of 5441152
- 572911 words of memory out of 5000000
- 33546 multiletter control sequences out of 15000+600000
+ 5031 strings out of 468149
+ 75331 string characters out of 5441152
+ 572896 words of memory out of 5000000
+ 33545 multiletter control sequences out of 15000+600000
  669811 words of font info for 118 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,10n,79p,1013b,320s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/Dell/AppData/Roaming/MiKTeX/fonts/type1/public/txfonts/rtxmi.pfb><C
-:/Users/Dell/AppData/Roaming/MiKTeX/fonts/type1/public/txfonts/rtxr.pfb><C:/Use
-rs/Dell/AppData/Roaming/MiKTeX/fonts/type1/public/txfonts/txsy.pfb><C:/Program 
-Files/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX/fonts/ty
-pe1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmri8a
-.pfb>
-Output written on main.pdf (3 pages, 86599 bytes).
+ 72i,10n,79p,2833b,320s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/Dell/AppData/Roaming/MiKTeX/fonts/type1/public/txfonts/rtxmi.pfb><C:/Users/Dell/AppData/Roaming/MiKTeX/fonts/type1/public/txfonts/rtxr.pfb><C:/Users/Dell/AppData/Roaming/MiKTeX/fonts/type1/public/txfonts/txsy.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (3 pages, 68825 bytes).
 PDF statistics:
- 46 PDF objects out of 1000 (max. 8388607)
+ 43 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
