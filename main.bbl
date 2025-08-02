@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 \expandafter\ifx\csname url\endcsname\relax
   \def\url#1{\texttt{#1}}\fi
 \expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
@@ -54,5 +54,19 @@ C.~Peiwen, N.~Sulaiman, S.~Zhenglong, The impact of artificial intelligence
   application on job displacement and creation: A systematic review,
   International Journal of Research and Innovation in Social Science 9~(4)
   (2025) 2495--2517.
+
+\bibitem{M4_1_tee2024demand}
+P.~K. Tee, L.~C. Wong, M.~Dada, B.~L. Song, C.~P. Ng, Demand for digital
+  skills, skill gaps and graduate employability: Evidence from employers in
+  malaysia, F1000Research 13 (2024) 389.
+
+\bibitem{M5_2_huang2025digital}
+Z.~Huang, Z.~Li, L.~Wang, H.~Liu, Digital education for graduate students:
+  Literacy and skills development-a case study of nonlinear control systems
+  course, in: Frontiers in Education, Vol.~10, Frontiers, 2025, p. 1601717.
+
+\bibitem{M11_8_elzir2024building}
+A.~Elzir, M.~Morgandi, Building digital literacy and skills to reflect the
+  needs of the job market, World Bank (2024).
 
 \end{thebibliography}

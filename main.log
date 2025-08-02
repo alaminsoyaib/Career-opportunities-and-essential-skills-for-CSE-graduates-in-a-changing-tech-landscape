@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.29)  2 AUG 2025 22:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.29)  2 AUG 2025 22:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -559,12 +559,12 @@ Underfull \vbox (badness 1748) has occurred while \output is active []
 
 
 (main.bbl
-Underfull \hbox (badness 1783) in paragraph at lines 14--20
+Underfull \hbox (badness 1112) in paragraph at lines 14--20
 []\T1/txr/m/n/10 D. De Silva, H. Hui-jser, S. Cun-ning-ham, N. Press,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 14--20
+Underfull \hbox (badness 7186) in paragraph at lines 14--20
 \T1/txr/m/n/10 Es-sen-tial pro-fes-sional skills and com-pe-ten-cies for
  []
 
@@ -574,55 +574,76 @@ Underfull \hbox (badness 10000) in paragraph at lines 14--20
  []
 
 
-Underfull \hbox (badness 5622) in paragraph at lines 14--20
+Underfull \hbox (badness 3838) in paragraph at lines 14--20
 \T1/txr/m/n/10 it in-dus-try de-mands, in: 2024 In-ter-na-tional Con-
  []
 
 
-Underfull \hbox (badness 6825) in paragraph at lines 14--20
+Underfull \hbox (badness 4001) in paragraph at lines 14--20
 \T1/txr/m/n/10 fer-ence on En-gi-neer-ing Man-age-ment of Com-mu-ni-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 14--20
+Underfull \hbox (badness 5359) in paragraph at lines 14--20
 \T1/txr/m/n/10 ca-tion and Tech-nol-ogy (EM-CTECH), IEEE, 2024.
  []
 
 
-Underfull \hbox (badness 2799) in paragraph at lines 22--26
+Underfull \hbox (badness 1742) in paragraph at lines 22--26
 []\T1/txr/m/n/10 F. S. Mo-hammed, F. Oz-damli, A sys-tem-atic lit-er-a-
  []
 
 
-Underfull \hbox (badness 2744) in paragraph at lines 22--26
+Underfull \hbox (badness 1635) in paragraph at lines 22--26
 \T1/txr/m/n/10 ture re-view of soft skills in in-for-ma-tion tech-nol-ogy
  []
 
 
-Underfull \hbox (badness 3098) in paragraph at lines 22--26
+Underfull \hbox (badness 1776) in paragraph at lines 22--26
 \T1/txr/m/n/10 ed-u-ca-tion, Be-hav-ioral Sci-ences 14 (10) (2024) 894.
  []
 
-)
 
-[3] (main.aux)
+Underfull \hbox (badness 1460) in paragraph at lines 28--34
+[]\T1/txr/m/n/10 D. Chakraborty, M. S. Hos-sain, M. S. Are-fin, De-
+ []
+
+
+Underfull \hbox (badness 5847) in paragraph at lines 28--34
+\T1/txr/m/n/10 mand anal-y-sis of cse grad-u-ates of dif-fer-ent uni-
+ []
+
+
+Underfull \hbox (badness 4621) in paragraph at lines 28--34
+\T1/txr/m/n/10 ver-si-ties in job mar-kets, in: Pro-ceed-ings of the
+ []
+
+
+
+[3])
+
+
+
+[4
+
+] (main.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-07-19>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 5031 strings out of 468149
- 75240 string characters out of 5441149
- 576084 words of memory out of 5000000
- 33545 multiletter control sequences out of 15000+600000
+ 5040 strings out of 468149
+ 75498 string characters out of 5441149
+ 576158 words of memory out of 5000000
+ 33554 multiletter control sequences out of 15000+600000
  669811 words of font info for 118 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,10n,79p,6216b,320s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,10n,79p,6369b,320s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/alami/AppData/Roaming/MiKTeX/fonts/type1/public/txfonts/rtxmi.pfb><C:/Users/alami/AppData/Roaming/MiKTeX/fonts/type1/public/txfonts/rtxr.pfb><C:/Users/alami/AppData/Roaming/MiKTeX/fonts/type1/public/txfonts/txsy.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (3 pages, 74039 bytes).
+Output written on main.pdf (4 pages, 74948 bytes).
 PDF statistics:
- 43 PDF objects out of 1000 (max. 8388607)
+ 46 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
