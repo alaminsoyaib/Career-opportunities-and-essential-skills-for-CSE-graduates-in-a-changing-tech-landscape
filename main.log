@@ -1,13 +1,13 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.29)  11 AUG 2025 01:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.28)  13 AUG 2025 11:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**e:/2/Desktop/Career-opportunities-and-essential-skills-for-CSE-graduates-in-a-changing-tech-landscape/main.tex
-(e:/2/Desktop/Career-opportunities-and-essential-skills-for-CSE-graduates-in-a-changing-tech-landscape/main.tex
+**c:/Users/Dell/Desktop/TWRM/Career-opportunities-and-essential-skills-for-CSE-graduates-in-a-changing-tech-landscape/main.tex
+(c:/Users/Dell/Desktop/TWRM/Career-opportunities-and-essential-skills-for-CSE-graduates-in-a-changing-tech-landscape/main.tex
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-07-19>
-(C:\Users\alami\AppData\Roaming\MiKTeX\tex/latex/elsarticle\elsarticle.cls
+(C:\Users\Dell\AppData\Roaming\MiKTeX\tex/latex/elsarticle\elsarticle.cls
 Document Class: elsarticle 2025/01/11, 3.4c: Elsevier Ltd
 (C:\Program Files\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2024/12/21 v2.1c Standard LaTeX package
@@ -77,7 +77,7 @@ File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
 \@enLab=\toks19
 \@sep=\skip51
 \@@sep=\skip52
- (main.spl) (C:\Users\alami\AppData\Roaming\MiKTeX\tex/latex/natbib\natbib.sty
+ (main.spl) (C:\Users\Dell\AppData\Roaming\MiKTeX\tex/latex/natbib\natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip53
 \bibsep=\skip54
@@ -87,7 +87,7 @@ LaTeX Info: Redefining \cite on input line 694.
 \splwrite=\write3
 \openout3 = `main.spl'.
 
- (C:\Users\alami\AppData\Roaming\MiKTeX\tex/latex/geometry\geometry.sty
+ (C:\Users\Dell\AppData\Roaming\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
  (C:\Program Files\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
@@ -106,7 +106,7 @@ Package: iftex 2024/12/12 v1.0g TeX engine tests
 \Gm@layouthoffset=\dimen161
 \Gm@layoutvoffset=\dimen162
 \Gm@dimlist=\toks20
- (C:\Users\alami\AppData\Roaming\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Program Files\MiKTeX\tex/latex/base\fleqn.clo
+ (C:\Users\Dell\AppData\Roaming\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Program Files\MiKTeX\tex/latex/base\fleqn.clo
 File: fleqn.clo 2016/12/29 v1.2b Standard LaTeX option (flush left equations)
 \mathindent=\skip55
 Applying: [2015/01/01] Make \[ robust on input line 50.
@@ -117,7 +117,7 @@ LaTeX Info: Redefining \] on input line 75.
 Already applied: [0000/00/00] Make \] robust on input line 83.
 )
 \appnamewidth=\dimen163
-) (C:\Users\alami\AppData\Roaming\MiKTeX\tex/latex/txfonts\txfonts.sty
+) (C:\Users\Dell\AppData\Roaming\MiKTeX\tex/latex/txfonts\txfonts.sty
 Package: txfonts 2008/01/22 v3.2.1
 LaTeX Font Info:    Redeclaring symbol font `operators' on input line 21.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
@@ -415,14 +415,14 @@ LaTeX Font Info:    Redeclaring math symbol \varkappa on input line 260.
 LaTeX Font Info:    Redeclaring math symbol \Bbbk on input line 261.
 LaTeX Font Info:    Redeclaring math symbol \hslash on input line 262.
 LaTeX Font Info:    Redeclaring math symbol \backepsilon on input line 265.
-) (C:\Users\alami\AppData\Roaming\MiKTeX\tex/latex/lipsum\lipsum.sty (C:\Program Files\MiKTeX\tex/latex/l3packages/l3keys2e\l3keys2e.sty
+) (C:\Users\Dell\AppData\Roaming\MiKTeX\tex/latex/lipsum\lipsum.sty (C:\Program Files\MiKTeX\tex/latex/l3packages/l3keys2e\l3keys2e.sty
 Package: l3keys2e 2024-08-16 LaTeX2e option processing using LaTeX3 keys
 )
 Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
 \g__lipsum_par_int=\count295
 \l__lipsum_a_int=\count296
 \l__lipsum_b_int=\count297
- (C:\Users\alami\AppData\Roaming\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex)) (C:\Users\alami\AppData\Roaming\MiKTeX\tex/latex/tabularray\tabularray.sty
+ (C:\Users\Dell\AppData\Roaming\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex)) (C:\Users\Dell\AppData\Roaming\MiKTeX\tex/latex/tabularray\tabularray.sty
 Package: tabularray 2025-03-11 v2025A Typeset tabulars and arrays with LaTeX3
 \l__tblr_a_int=\count298
 \l__tblr_c_int=\count299
@@ -546,20 +546,20 @@ Package: tabularray 2025-03-11 v2025A Typeset tabulars and arrays with LaTeX3
 \l__tblr_tikz_node_box=\box86
 )
 LaTeX Font Info:    Trying to load font information for T1+txr on input line 56.
- (C:\Users\alami\AppData\Roaming\MiKTeX\tex/latex/txfonts\t1txr.fd
+ (C:\Users\Dell\AppData\Roaming\MiKTeX\tex/latex/txfonts\t1txr.fd
 File: t1txr.fd 2000/12/15 v3.1
 ) (main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 56.
 LaTeX Font Info:    Trying to load font information for OML+txmi on input line 56.
- (C:\Users\alami\AppData\Roaming\MiKTeX\tex/latex/txfonts\omltxmi.fd
+ (C:\Users\Dell\AppData\Roaming\MiKTeX\tex/latex/txfonts\omltxmi.fd
 File: omltxmi.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    ... okay on input line 56.
 LaTeX Font Info:    Checking defaults for OMS/txsy/m/n on input line 56.
 LaTeX Font Info:    Trying to load font information for OMS+txsy on input line 56.
- (C:\Users\alami\AppData\Roaming\MiKTeX\tex/latex/txfonts\omstxsy.fd
+ (C:\Users\Dell\AppData\Roaming\MiKTeX\tex/latex/txfonts\omstxsy.fd
 File: omstxsy.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    ... okay on input line 56.
@@ -571,13 +571,13 @@ LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 56.
 LaTeX Font Info:    ... okay on input line 56.
 LaTeX Font Info:    Checking defaults for OMX/txex/m/n on input line 56.
 LaTeX Font Info:    Trying to load font information for OMX+txex on input line 56.
- (C:\Users\alami\AppData\Roaming\MiKTeX\tex/latex/txfonts\omxtxex.fd
+ (C:\Users\Dell\AppData\Roaming\MiKTeX\tex/latex/txfonts\omxtxex.fd
 File: omxtxex.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    ... okay on input line 56.
 LaTeX Font Info:    Checking defaults for U/txexa/m/n on input line 56.
 LaTeX Font Info:    Trying to load font information for U+txexa on input line 56.
- (C:\Users\alami\AppData\Roaming\MiKTeX\tex/latex/txfonts\utxexa.fd
+ (C:\Users\Dell\AppData\Roaming\MiKTeX\tex/latex/txfonts\utxexa.fd
 File: utxexa.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    ... okay on input line 56.
@@ -640,11 +640,11 @@ LaTeX Encoding Info:    Redeclaring text command \k (encoding T1) on input line 
 LaTeX Font Info:    Font shape `T1/txr/b/n' in size <10> not available
 (Font)              Font shape `T1/txr/bx/n' tried instead on input line 130.
 LaTeX Font Info:    Trying to load font information for OT1+txr on input line 158.
-(C:\Users\alami\AppData\Roaming\MiKTeX\tex/latex/txfonts\ot1txr.fd
+(C:\Users\Dell\AppData\Roaming\MiKTeX\tex/latex/txfonts\ot1txr.fd
 File: ot1txr.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Trying to load font information for U+txmia on input line 158.
- (C:\Users\alami\AppData\Roaming\MiKTeX\tex/latex/txfonts\utxmia.fd
+ (C:\Users\Dell\AppData\Roaming\MiKTeX\tex/latex/txfonts\utxmia.fd
 File: utxmia.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Trying to load font information for U+msa on input line 158.
@@ -656,7 +656,7 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 158.
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Trying to load font information for U+txsyc on input line 158.
- (C:\Users\alami\AppData\Roaming\MiKTeX\tex/latex/txfonts\utxsyc.fd
+ (C:\Users\Dell\AppData\Roaming\MiKTeX\tex/latex/txfonts\utxsyc.fd
 File: utxsyc.fd 2000/12/15 v3.1
 )
 
@@ -665,179 +665,179 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[1{C:/Users/alami/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc}
+[1{C:/Users/Dell/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc}
 
 
 ]
 LaTeX Font Info:    Font shape `T1/txr/b/n' in size <7> not available
-(Font)              Font shape `T1/txr/bx/n' tried instead on input line 205.
+(Font)              Font shape `T1/txr/bx/n' tried instead on input line 204.
 
-Underfull \hbox (badness 2426) in paragraph at lines 205--205
+Underfull \hbox (badness 2426) in paragraph at lines 204--204
 []\T1/txr/m/n/7 Node.js; Ex-press; Java Spring
  []
 
 
-Underfull \hbox (badness 3312) in paragraph at lines 205--205
+Underfull \hbox (badness 3312) in paragraph at lines 204--204
 \T1/txr/m/n/7 mance bud-gets; state man-age-
  []
 
 
-Underfull \hbox (badness 5260) in paragraph at lines 205--205
+Underfull \hbox (badness 5260) in paragraph at lines 204--204
 []\T1/txr/m/n/7 Advanced SQL; Python; data
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 205--205
+Underfull \hbox (badness 10000) in paragraph at lines 204--204
 \T1/txr/m/n/7 Snowflake; Big-Query; Delta
  []
 
 
-Underfull \hbox (badness 2856) in paragraph at lines 205--205
+Underfull \hbox (badness 2856) in paragraph at lines 204--204
 []\T1/txr/m/n/7 scikit learn; Py-Torch; Ten-sor-
  []
 
 
-Underfull \hbox (badness 2762) in paragraph at lines 205--205
+Underfull \hbox (badness 2762) in paragraph at lines 204--204
 \T1/txr/m/n/7 Flow; Hug-ging Face; ONNX;
  []
 
 
-Underfull \hbox (badness 1810) in paragraph at lines 205--205
+Underfull \hbox (badness 1810) in paragraph at lines 204--204
 []\T1/txr/m/n/7 pandas; NumPy; SciPy; scikit
  []
 
 
-Underfull \hbox (badness 4316) in paragraph at lines 205--205
+Underfull \hbox (badness 4316) in paragraph at lines 204--204
 \T1/txr/m/n/7 net-work anal-y-sis; in-ci-dent re-
  []
 
 
-Underfull \hbox (badness 2913) in paragraph at lines 205--205
+Underfull \hbox (badness 2913) in paragraph at lines 204--204
 []\T1/txr/m/n/7 Cloud adop-tion con-tin-ues with
  []
 
 
-Underfull \hbox (badness 2626) in paragraph at lines 205--205
+Underfull \hbox (badness 2626) in paragraph at lines 204--204
 []\T1/txr/m/n/7 Infrastructure as code; CI/CD;
  []
 
 
-Underfull \hbox (badness 1742) in paragraph at lines 205--205
+Underfull \hbox (badness 1742) in paragraph at lines 204--204
 \T1/txr/m/n/7 con-tainer or-ches-tra-tion; ob-serv-
  []
 
 
-Underfull \hbox (badness 3058) in paragraph at lines 205--205
+Underfull \hbox (badness 3058) in paragraph at lines 204--204
 []\T1/txr/m/n/7 AWS or Azure or GCP; Ter-
  []
 
 
-Underfull \hbox (badness 1867) in paragraph at lines 205--205
+Underfull \hbox (badness 1867) in paragraph at lines 204--204
 \T1/txr/m/n/7 re-li-a-bil-ity and fast in-ci-dent re-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 205--205
+Underfull \hbox (badness 10000) in paragraph at lines 204--204
 []\T1/txr/m/n/7 Prometheus; Grafana; Open-
  []
 
 
-Underfull \hbox (badness 3302) in paragraph at lines 205--205
+Underfull \hbox (badness 3302) in paragraph at lines 204--204
 \T1/txr/m/n/7 Teleme-try; Sen-try; Pager-Duty;
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 205--205
+Underfull \hbox (badness 10000) in paragraph at lines 204--204
 []\T1/txr/m/n/7 Enterprise to-k-eniza-tion, DeFi,
  []
 
 
-Underfull \hbox (badness 7362) in paragraph at lines 205--205
+Underfull \hbox (badness 7362) in paragraph at lines 204--204
 \T1/txr/m/n/7 au-to-mated test-ing and qual-ity
  []
 
 
-Underfull \hbox (badness 2426) in paragraph at lines 205--205
+Underfull \hbox (badness 2426) in paragraph at lines 204--204
 []\T1/txr/m/n/7 Node.js; Ex-press; Java Spring
  []
 
 
-Underfull \hbox (badness 3312) in paragraph at lines 205--205
+Underfull \hbox (badness 3312) in paragraph at lines 204--204
 \T1/txr/m/n/7 mance bud-gets; state man-age-
  []
 
 
-Underfull \hbox (badness 5260) in paragraph at lines 205--205
+Underfull \hbox (badness 5260) in paragraph at lines 204--204
 []\T1/txr/m/n/7 Advanced SQL; Python; data
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 205--205
+Underfull \hbox (badness 10000) in paragraph at lines 204--204
 \T1/txr/m/n/7 Snowflake; Big-Query; Delta
  []
 
 
-Underfull \hbox (badness 2856) in paragraph at lines 205--205
+Underfull \hbox (badness 2856) in paragraph at lines 204--204
 []\T1/txr/m/n/7 scikit learn; Py-Torch; Ten-sor-
  []
 
 
-Underfull \hbox (badness 2762) in paragraph at lines 205--205
+Underfull \hbox (badness 2762) in paragraph at lines 204--204
 \T1/txr/m/n/7 Flow; Hug-ging Face; ONNX;
  []
 
 
-Underfull \hbox (badness 1810) in paragraph at lines 205--205
+Underfull \hbox (badness 1810) in paragraph at lines 204--204
 []\T1/txr/m/n/7 pandas; NumPy; SciPy; scikit
  []
 
 
-Underfull \hbox (badness 4316) in paragraph at lines 205--205
+Underfull \hbox (badness 4316) in paragraph at lines 204--204
 \T1/txr/m/n/7 net-work anal-y-sis; in-ci-dent re-
  []
 
 
-Underfull \hbox (badness 2913) in paragraph at lines 205--205
+Underfull \hbox (badness 2913) in paragraph at lines 204--204
 []\T1/txr/m/n/7 Cloud adop-tion con-tin-ues with
  []
 
 
-Underfull \hbox (badness 2626) in paragraph at lines 205--205
+Underfull \hbox (badness 2626) in paragraph at lines 204--204
 []\T1/txr/m/n/7 Infrastructure as code; CI/CD;
  []
 
 
-Underfull \hbox (badness 1742) in paragraph at lines 205--205
+Underfull \hbox (badness 1742) in paragraph at lines 204--204
 \T1/txr/m/n/7 con-tainer or-ches-tra-tion; ob-serv-
  []
 
 
-Underfull \hbox (badness 3058) in paragraph at lines 205--205
+Underfull \hbox (badness 3058) in paragraph at lines 204--204
 []\T1/txr/m/n/7 AWS or Azure or GCP; Ter-
  []
 
 
-Underfull \hbox (badness 1867) in paragraph at lines 205--205
+Underfull \hbox (badness 1867) in paragraph at lines 204--204
 \T1/txr/m/n/7 re-li-a-bil-ity and fast in-ci-dent re-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 205--205
+Underfull \hbox (badness 10000) in paragraph at lines 204--204
 []\T1/txr/m/n/7 Prometheus; Grafana; Open-
  []
 
 
-Underfull \hbox (badness 3302) in paragraph at lines 205--205
+Underfull \hbox (badness 3302) in paragraph at lines 204--204
 \T1/txr/m/n/7 Teleme-try; Sen-try; Pager-Duty;
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 205--205
+Underfull \hbox (badness 10000) in paragraph at lines 204--204
 []\T1/txr/m/n/7 Enterprise to-k-eniza-tion, DeFi,
  []
 
 
-Underfull \hbox (badness 7362) in paragraph at lines 205--205
+Underfull \hbox (badness 7362) in paragraph at lines 204--204
 \T1/txr/m/n/7 au-to-mated test-ing and qual-ity
  []
 
@@ -881,6 +881,8 @@ Underfull \hbox (badness 5359) in paragraph at lines 14--20
  []
 
 
+
+[4]
 Underfull \hbox (badness 1742) in paragraph at lines 22--26
 []\T1/txr/m/n/10 F. S. Mo-hammed, F. Oz-damli, A sys-tem-atic lit-er-a-
  []
@@ -911,8 +913,6 @@ Underfull \hbox (badness 4621) in paragraph at lines 28--34
  []
 
 
-
-[4]
 Underfull \hbox (badness 1314) in paragraph at lines 73--78
 []\T1/txr/m/n/10 I. L. Or-ga-ni-za-tion, How might gen-er-a-tive ai im-pact
  []
@@ -926,6 +926,8 @@ Overfull \hbox (258.69412pt too wide) in paragraph at lines 73--78
 Overfull \hbox (158.96848pt too wide) in paragraph at lines 80--84
 \T1/txr/m/n/10 URL \T1/cmtt/m/n/10 https://www.nexford.edu/insights/the-most-in-demand-ai-careers-of-2025 
  []
+
+
 
 
 Overfull \hbox (332.17618pt too wide) in paragraph at lines 86--90
@@ -944,11 +946,7 @@ Overfull \hbox (232.45053pt too wide) in paragraph at lines 92--96
 
 )
 
-
-
-[5
-
-] (main.aux)
+[5] (main.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-07-19>
@@ -956,14 +954,14 @@ L3 programming layer <2025-07-19>
  ) 
 Here is how much of TeX's memory you used:
  7989 strings out of 468149
- 150848 string characters out of 5441149
- 705128 words of memory out of 5000000
+ 150936 string characters out of 5441152
+ 703058 words of memory out of 5000000
  36496 multiletter control sequences out of 15000+600000
  675341 words of font info for 125 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,10n,96p,6500b,1327s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\alami\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1000.pk><C:/Users/alami/AppData/Roaming/MiKTeX/fonts/type1/public/txfonts/rtxmi.pfb><C:/Users/alami/AppData/Roaming/MiKTeX/fonts/type1/public/txfonts/rtxr.pfb><C:/Users/alami/AppData/Roaming/MiKTeX/fonts/type1/public/txfonts/txsy.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (5 pages, 91336 bytes).
+ 72i,10n,96p,6514b,1327s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\Dell\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1000.pk><C:/Users/Dell/AppData/Roaming/MiKTeX/fonts/type1/public/txfonts/rtxmi.pfb><C:/Users/Dell/AppData/Roaming/MiKTeX/fonts/type1/public/txfonts/rtxr.pfb><C:/Users/Dell/AppData/Roaming/MiKTeX/fonts/type1/public/txfonts/txsy.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (5 pages, 92205 bytes).
 PDF statistics:
  82 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
