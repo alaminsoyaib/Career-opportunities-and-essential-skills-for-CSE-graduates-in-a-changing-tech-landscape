@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.28)  13 AUG 2025 11:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.28)  18 AUG 2025 23:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -670,175 +670,115 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 ]
 LaTeX Font Info:    Font shape `T1/txr/b/n' in size <7> not available
-(Font)              Font shape `T1/txr/bx/n' tried instead on input line 204.
+(Font)              Font shape `T1/txr/bx/n' tried instead on input line 207.
 
-Underfull \hbox (badness 2426) in paragraph at lines 204--204
-[]\T1/txr/m/n/7 Node.js; Ex-press; Java Spring
+Underfull \hbox (badness 4779) in paragraph at lines 207--207
+\T1/txr/m/n/7 FastAPI or Django; Go; Post-greSQL;
  []
 
 
-Underfull \hbox (badness 3312) in paragraph at lines 204--204
-\T1/txr/m/n/7 mance bud-gets; state man-age-
+Underfull \hbox (badness 1527) in paragraph at lines 207--207
+[]\T1/txr/m/n/7 Advanced SQL; Python; data mod-el-ing;
  []
 
 
-Underfull \hbox (badness 5260) in paragraph at lines 204--204
-[]\T1/txr/m/n/7 Advanced SQL; Python; data
+Underfull \hbox (badness 10000) in paragraph at lines 207--207
+[]\T1/txr/m/n/7 Airflow; dbt; Spark; Kafka; Flink;
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 204--204
-\T1/txr/m/n/7 Snowflake; Big-Query; Delta
+Underfull \hbox (badness 1189) in paragraph at lines 207--207
+[]\T1/txr/m/n/7 Statistics; causal in-fer-ence; A/B test-ing;
  []
 
 
-Underfull \hbox (badness 2856) in paragraph at lines 204--204
-[]\T1/txr/m/n/7 scikit learn; Py-Torch; Ten-sor-
+Underfull \hbox (badness 3098) in paragraph at lines 207--207
+[]\T1/txr/m/n/7 Wireshark; Zeek; Suri-cata; SIEM like
  []
 
 
-Underfull \hbox (badness 2762) in paragraph at lines 204--204
-\T1/txr/m/n/7 Flow; Hug-ging Face; ONNX;
+Underfull \hbox (badness 2293) in paragraph at lines 207--207
+[]\T1/txr/m/n/7 Hardhat; Foundry; Open-Zep-pelin; Sub-
  []
 
 
-Underfull \hbox (badness 1810) in paragraph at lines 204--204
-[]\T1/txr/m/n/7 pandas; NumPy; SciPy; scikit
+Underfull \hbox (badness 1975) in paragraph at lines 207--207
+[]\T1/txr/m/n/7 Embedded C or C++; mi-cro-con-trollers;
  []
 
 
-Underfull \hbox (badness 4316) in paragraph at lines 204--204
-\T1/txr/m/n/7 net-work anal-y-sis; in-ci-dent re-
+Underfull \hbox (badness 3895) in paragraph at lines 207--207
+[]\T1/txr/m/n/7 Selenium; Play-wright; Cy-press; JU-nit;
  []
 
 
-Underfull \hbox (badness 2913) in paragraph at lines 204--204
-[]\T1/txr/m/n/7 Cloud adop-tion con-tin-ues with
+Underfull \hbox (badness 1824) in paragraph at lines 207--207
+[]\T1/txr/m/n/7 Teams add lan-guage model fea-tures for
  []
 
 
-Underfull \hbox (badness 2626) in paragraph at lines 204--204
-[]\T1/txr/m/n/7 Infrastructure as code; CI/CD;
+Underfull \hbox (badness 1490) in paragraph at lines 207--207
+[]\T1/txr/m/n/7 OpenAI or lo-cal LLMs; Hug-ging Face;
  []
 
 
-Underfull \hbox (badness 1742) in paragraph at lines 204--204
-\T1/txr/m/n/7 con-tainer or-ches-tra-tion; ob-serv-
+Underfull \hbox (badness 7540) in paragraph at lines 207--207
+\T1/txr/m/n/7 LangChain or Lla-maIn-dex; FAISS or
  []
 
 
-Underfull \hbox (badness 3058) in paragraph at lines 204--204
-[]\T1/txr/m/n/7 AWS or Azure or GCP; Ter-
+Underfull \hbox (badness 4779) in paragraph at lines 207--207
+\T1/txr/m/n/7 FastAPI or Django; Go; Post-greSQL;
  []
 
 
-Underfull \hbox (badness 1867) in paragraph at lines 204--204
-\T1/txr/m/n/7 re-li-a-bil-ity and fast in-ci-dent re-
+Underfull \hbox (badness 1527) in paragraph at lines 207--207
+[]\T1/txr/m/n/7 Advanced SQL; Python; data mod-el-ing;
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 204--204
-[]\T1/txr/m/n/7 Prometheus; Grafana; Open-
+Underfull \hbox (badness 10000) in paragraph at lines 207--207
+[]\T1/txr/m/n/7 Airflow; dbt; Spark; Kafka; Flink;
  []
 
 
-Underfull \hbox (badness 3302) in paragraph at lines 204--204
-\T1/txr/m/n/7 Teleme-try; Sen-try; Pager-Duty;
+Underfull \hbox (badness 1189) in paragraph at lines 207--207
+[]\T1/txr/m/n/7 Statistics; causal in-fer-ence; A/B test-ing;
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 204--204
-[]\T1/txr/m/n/7 Enterprise to-k-eniza-tion, DeFi,
+Underfull \hbox (badness 3098) in paragraph at lines 207--207
+[]\T1/txr/m/n/7 Wireshark; Zeek; Suri-cata; SIEM like
  []
 
 
-Underfull \hbox (badness 7362) in paragraph at lines 204--204
-\T1/txr/m/n/7 au-to-mated test-ing and qual-ity
+Underfull \hbox (badness 2293) in paragraph at lines 207--207
+[]\T1/txr/m/n/7 Hardhat; Foundry; Open-Zep-pelin; Sub-
  []
 
 
-Underfull \hbox (badness 2426) in paragraph at lines 204--204
-[]\T1/txr/m/n/7 Node.js; Ex-press; Java Spring
+Underfull \hbox (badness 1975) in paragraph at lines 207--207
+[]\T1/txr/m/n/7 Embedded C or C++; mi-cro-con-trollers;
  []
 
 
-Underfull \hbox (badness 3312) in paragraph at lines 204--204
-\T1/txr/m/n/7 mance bud-gets; state man-age-
+Underfull \hbox (badness 3895) in paragraph at lines 207--207
+[]\T1/txr/m/n/7 Selenium; Play-wright; Cy-press; JU-nit;
  []
 
 
-Underfull \hbox (badness 5260) in paragraph at lines 204--204
-[]\T1/txr/m/n/7 Advanced SQL; Python; data
+Underfull \hbox (badness 1824) in paragraph at lines 207--207
+[]\T1/txr/m/n/7 Teams add lan-guage model fea-tures for
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 204--204
-\T1/txr/m/n/7 Snowflake; Big-Query; Delta
+Underfull \hbox (badness 1490) in paragraph at lines 207--207
+[]\T1/txr/m/n/7 OpenAI or lo-cal LLMs; Hug-ging Face;
  []
 
 
-Underfull \hbox (badness 2856) in paragraph at lines 204--204
-[]\T1/txr/m/n/7 scikit learn; Py-Torch; Ten-sor-
- []
-
-
-Underfull \hbox (badness 2762) in paragraph at lines 204--204
-\T1/txr/m/n/7 Flow; Hug-ging Face; ONNX;
- []
-
-
-Underfull \hbox (badness 1810) in paragraph at lines 204--204
-[]\T1/txr/m/n/7 pandas; NumPy; SciPy; scikit
- []
-
-
-Underfull \hbox (badness 4316) in paragraph at lines 204--204
-\T1/txr/m/n/7 net-work anal-y-sis; in-ci-dent re-
- []
-
-
-Underfull \hbox (badness 2913) in paragraph at lines 204--204
-[]\T1/txr/m/n/7 Cloud adop-tion con-tin-ues with
- []
-
-
-Underfull \hbox (badness 2626) in paragraph at lines 204--204
-[]\T1/txr/m/n/7 Infrastructure as code; CI/CD;
- []
-
-
-Underfull \hbox (badness 1742) in paragraph at lines 204--204
-\T1/txr/m/n/7 con-tainer or-ches-tra-tion; ob-serv-
- []
-
-
-Underfull \hbox (badness 3058) in paragraph at lines 204--204
-[]\T1/txr/m/n/7 AWS or Azure or GCP; Ter-
- []
-
-
-Underfull \hbox (badness 1867) in paragraph at lines 204--204
-\T1/txr/m/n/7 re-li-a-bil-ity and fast in-ci-dent re-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 204--204
-[]\T1/txr/m/n/7 Prometheus; Grafana; Open-
- []
-
-
-Underfull \hbox (badness 3302) in paragraph at lines 204--204
-\T1/txr/m/n/7 Teleme-try; Sen-try; Pager-Duty;
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 204--204
-[]\T1/txr/m/n/7 Enterprise to-k-eniza-tion, DeFi,
- []
-
-
-Underfull \hbox (badness 7362) in paragraph at lines 204--204
-\T1/txr/m/n/7 au-to-mated test-ing and qual-ity
+Underfull \hbox (badness 7540) in paragraph at lines 207--207
+\T1/txr/m/n/7 LangChain or Lla-maIn-dex; FAISS or
  []
 
 
@@ -881,8 +821,6 @@ Underfull \hbox (badness 5359) in paragraph at lines 14--20
  []
 
 
-
-[4]
 Underfull \hbox (badness 1742) in paragraph at lines 22--26
 []\T1/txr/m/n/10 F. S. Mo-hammed, F. Oz-damli, A sys-tem-atic lit-er-a-
  []
@@ -913,6 +851,8 @@ Underfull \hbox (badness 4621) in paragraph at lines 28--34
  []
 
 
+
+[4]
 Underfull \hbox (badness 1314) in paragraph at lines 73--78
 []\T1/txr/m/n/10 I. L. Or-ga-ni-za-tion, How might gen-er-a-tive ai im-pact
  []
@@ -926,8 +866,6 @@ Overfull \hbox (258.69412pt too wide) in paragraph at lines 73--78
 Overfull \hbox (158.96848pt too wide) in paragraph at lines 80--84
 \T1/txr/m/n/10 URL \T1/cmtt/m/n/10 https://www.nexford.edu/insights/the-most-in-demand-ai-careers-of-2025 
  []
-
-
 
 
 Overfull \hbox (332.17618pt too wide) in paragraph at lines 86--90
@@ -946,22 +884,26 @@ Overfull \hbox (232.45053pt too wide) in paragraph at lines 92--96
 
 )
 
-[5] (main.aux)
+
+
+[5
+
+] (main.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-07-19>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 7989 strings out of 468149
- 150936 string characters out of 5441152
- 703058 words of memory out of 5000000
- 36496 multiletter control sequences out of 15000+600000
+ 7992 strings out of 468149
+ 151010 string characters out of 5441152
+ 709965 words of memory out of 5000000
+ 36499 multiletter control sequences out of 15000+600000
  675341 words of font info for 125 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,10n,96p,6514b,1327s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,10n,96p,6514b,1304s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Dell\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1000.pk><C:/Users/Dell/AppData/Roaming/MiKTeX/fonts/type1/public/txfonts/rtxmi.pfb><C:/Users/Dell/AppData/Roaming/MiKTeX/fonts/type1/public/txfonts/rtxr.pfb><C:/Users/Dell/AppData/Roaming/MiKTeX/fonts/type1/public/txfonts/txsy.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (5 pages, 92205 bytes).
+Output written on main.pdf (5 pages, 93408 bytes).
 PDF statistics:
  82 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

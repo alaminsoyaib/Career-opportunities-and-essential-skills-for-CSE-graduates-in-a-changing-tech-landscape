@@ -198,6 +198,12 @@ INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr10.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr10.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr10.tfm
 INPUT C:\Users\Dell\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\t1xb.tfm
+INPUT C:\Users\Dell\AppData\Roaming\MiKTeX\fonts\vf\public\txfonts\txmi.vf
+INPUT C:\Users\Dell\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\rtxmi.tfm
+INPUT C:\Users\Dell\AppData\Roaming\MiKTeX\fonts\vf\public\txfonts\txr.vf
+INPUT C:\Users\Dell\AppData\Roaming\MiKTeX\fonts\vf\public\txfonts\txmi.vf
+INPUT C:\Users\Dell\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\rtxmi.tfm
+INPUT C:\Users\Dell\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\rtxptmri.tfm
 INPUT C:\Users\Dell\AppData\Roaming\MiKTeX\fonts\vf\public\txfonts\t1xr.vf
 INPUT C:\Users\Dell\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\rtxptmr.tfm
 INPUT C:\Users\Dell\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\rtxr.tfm
@@ -207,13 +213,7 @@ INPUT C:\Users\Dell\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\rtxb.tfm
 INPUT .\main.bbl
 INPUT .\main.bbl
 INPUT main.bbl
-INPUT C:\Users\Dell\AppData\Roaming\MiKTeX\fonts\vf\public\txfonts\txmi.vf
-INPUT C:\Users\Dell\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\rtxmi.tfm
 INPUT C:\Users\Dell\AppData\Roaming\MiKTeX\fonts\vf\public\txfonts\txr.vf
-INPUT C:\Users\Dell\AppData\Roaming\MiKTeX\fonts\vf\public\txfonts\txr.vf
-INPUT C:\Users\Dell\AppData\Roaming\MiKTeX\fonts\vf\public\txfonts\txmi.vf
-INPUT C:\Users\Dell\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\rtxmi.tfm
-INPUT C:\Users\Dell\AppData\Roaming\MiKTeX\fonts\tfm\public\txfonts\rtxptmri.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\ectt1000.tfm
 INPUT main.aux
 INPUT C:\Users\Dell\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ectt1000.pk
